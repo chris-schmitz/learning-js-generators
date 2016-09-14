@@ -34,7 +34,7 @@ function run(generator){
         // I like how compact this line is so I'm not going to expand it in the live code to better
         // annotate it, but I'll do it here in the comment:
         //
-        // in es6 terms, this is what's happening:
+        // in es5 terms, this is what's happening:
         //
         // return promise().then(function(response) {
         //    return iterate(iterator.next(response))
